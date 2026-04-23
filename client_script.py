@@ -14,7 +14,7 @@ BOLD = "\033[1m"
 RESET = "\033[0m"
 
 # 🌐 SERVER URL
-SERVER_URL = "https://cmd-server.onrender.com/ai"
+SERVER_URL = "https://cmd-server-vqtd.onrender.com/ai"
 
 # 🧠 Detect OS (optional auto mode)
 def detect_platform():
